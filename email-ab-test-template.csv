@@ -1,0 +1,10 @@
+Prospekti,Yritys,Titteli,Versio,Lähetetty,Avattu,Vastaus,Positiivinen,Tapaaminen,Huomiot
+Matti Meikäläinen,Yritys Oy,Sales Director,A (kontrolli),2026-01-20,Kyllä,Ei,,,
+Liisa Virtanen,Firma Ab,VP Sales,B (AI+edit),2026-01-20,Kyllä,Kyllä,Kyllä,Kyllä,Tapaaminen 25.1.
+Pekka Korhonen,Tech Oy,Head of Sales,C (AI only),2026-01-20,Ei,,,,
+,,,,,,,,,
+YHTEENVETO:,,,,,,,,,
+,,,Lähetetty,Avattu,Vastaus,Positiivinen,Tapaaminen,
+Versio A (kontrolli):,,,0,0,0,0,0,
+Versio B (AI+edit):,,,0,0,0,0,0,
+Versio C (AI only):,,,0,0,0,0,0,
