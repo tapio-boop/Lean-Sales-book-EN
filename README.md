@@ -85,10 +85,10 @@ The site uses CSS variables for easy color customization. Edit the `:root` secti
 All content can be edited directly in `index.html`. The structure is semantic and well-commented.
 
 ### Amazon Link
-Update the Amazon link in the "Buy on Amazon" buttons (search for `href="https://www.amazon.com"` in index.html).
+The book is available at: https://www.amazon.com/Lean-Sales-Tapio-Nissil%C3%A4-ebook/dp/B00COVGXDQ/
 
 ### Contact Email
-Update the contact email address (search for `info@leansales.com` in index.html).
+For inquiries: tapio@leansalesmethod.com
 
 ## Deployment
 
@@ -156,7 +156,7 @@ Copyright © 2026 Lean Sales. All rights reserved.
 
 ## Support
 
-For questions or support, contact: info@leansales.com
+For questions or support, contact: tapio@leansalesmethod.com
 
 ---
 
